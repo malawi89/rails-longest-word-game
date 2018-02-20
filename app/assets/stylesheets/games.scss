@@ -1,0 +1,30 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+li{
+  background-color: #3498DC;
+  list-style: none;
+  display: inline-block;
+  font-size: 40px;
+  padding: 3px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin: 5px;
+
+}
+.btn-treehouse{
+  color: white;
+  padding: 10px 15px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #6AD58B;
+  transition: background 0.3s ease;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
